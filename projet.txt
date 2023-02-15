@@ -2,6 +2,11 @@ Comprendre  chiffrement et déchiffrement de l'algo.
 Langage PHP.
 envoyer un message chiffré , le recevoir et le déchiffré.
 Cassage de l'algo.
+git add .
+git commit -m ""
+git push
+jjjjj
+git pull
 
 
  
