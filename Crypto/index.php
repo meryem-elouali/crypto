@@ -60,6 +60,7 @@
                         </div>
                         <div class="button">
                         <input type="submit" value="Generate the public key">
+                        <span class="details">Test key:<br>A=[2,7,11,21,42,89,180,354]<br>u=881<br>p=588</span>
                         </div>
                         </div>
                 </form>
